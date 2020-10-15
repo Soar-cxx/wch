@@ -7,3 +7,4 @@ plt.plot(x, y)
 plt.xlabel('t')
 plt.ylabel('x(t)')
 plt.show()
+sb
